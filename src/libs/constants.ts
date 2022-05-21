@@ -1,1 +1,1 @@
-export const REPOSITORY = 'Repository';
+export const DB_REPOSITORY = 'DbRepository';

@@ -1,5 +1,5 @@
 import { SpeciesDto } from 'src/libs/database';
 
-export interface DbService {
+export interface DbRepository {
   getAll(): SpeciesDto[];
 }
